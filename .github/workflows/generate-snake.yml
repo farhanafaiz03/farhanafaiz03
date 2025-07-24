@@ -9,10 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout output branch
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: output
           fetch-depth: 0
 
       - name: Generate Snake SVG
@@ -23,8 +22,9 @@ jobs:
             ./github-contribution-grid-snake.svg
             ./github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push snake
+      - name: Commit and push snake to output branch
         uses: EndBug/add-and-commit@v9
         with:
+          new_branch: output
           message: 'Generate contribution snake'
           add: 'github-contribution-grid-snake*'
