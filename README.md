@@ -18,76 +18,55 @@ My journey began with a single line of Python, and every dataset since has been 
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠️ **Skills & Technologies**
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL/PostgreSQL" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 
-  <!-- SQL (PostgreSQL) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="SQL / PostgreSQL"/>
+  <!-- Data Science/ML Tools -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <!-- Seaborn doesn't have an official icon, so using an SVG Python logo with seaborn color -->
+  <img src="https://img.shields.io/badge/Seaborn-2F8ACB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn (Python icon)" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 
-  <!-- Jupyter Notebook -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter Notebook"/>
+  <!-- IDEs & Platforms -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
 
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
-
-  <!-- Streamlit -->
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40" title="Streamlit"/>
-
-  <!-- scikit-learn (official logo image) -->
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40" title="scikit-learn"/>
-
-  <!-- Matplotlib -->
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" title="Matplotlib"/>
-
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
-
-  <!-- Seaborn (no official, using Python) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Seaborn"/>
-
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy"/>
-
-  <!-- Google Colab -->
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" title="Google Colab"/>
-
-  <!-- Kaggle -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" title="Kaggle"/>
-
-  <!-- C# -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
-
-  <!-- .NET -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" title=".NET"/>
-
-  <!-- Visual Studio -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" title="Visual Studio"/>
-
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <!-- Other Tools -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 **Connect With Me**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/farhanafaiz03/" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/farhanafaiz03/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://x.com/farhanafaiz03" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=twitter&logoColor=white" />
+  &nbsp; &nbsp;
+  <a href="https://x.com/farhanafaiz03" target="_blank" title="X (Twitter)">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40"/>
   </a>
 </div>
 
+
 ---
 
-## 🖥️ GitHub Activity 🚀
+### 🖥️ GitHub Activity 🚀
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
@@ -100,7 +79,7 @@ My journey began with a single line of Python, and every dataset since has been 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanafaiz03&layout=compact&hide_border=true&theme=react" alt="Languages Used" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanafaiz03&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
+</div>](https://github.com/copilot/c/957668b6-25a1-4cf8-97f0-e503142405ee)](https://github.com/copilot/c/957668b6-25a1-4cf8-97f0-e503142405ee)
 
 ---
 
