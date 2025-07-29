@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Farhana Faiz!
+# 👋 Hey Everyone, I'm Farhana!
 
 > **Turning curiosity into code and data into discovery.**
 
@@ -14,11 +14,11 @@ My journey began with a single line of Python, and every dataset since has been 
 
 ## 🚀 Currently Exploring
 
-![Currently Learning](https://img.shields.io/badge/Exploring-Deep%20Learning-00b894?style=flat-square&logo=googlecolab&logoColor=white)
+![Currently Learning](https://img.shields.io/badge/Data%20Science%20-Artificial%20Intelligence-00b894?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
 
-## 🛠️ **Skills & Technologies**
+## 🛠️ **Tools & Technologies**
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -79,17 +79,14 @@ My journey began with a single line of Python, and every dataset since has been 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanafaiz03&layout=compact&hide_border=true&theme=react" alt="Languages Used" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanafaiz03&theme=react-dark" alt="GitHub Activity Graph" />
-</div>](https://github.com/copilot/c/957668b6-25a1-4cf8-97f0-e503142405ee)](https://github.com/copilot/c/957668b6-25a1-4cf8-97f0-e503142405ee)
+  
+</div>
+
 
 ---
 
-### ⚡ Fun Fact
-
-> **I believe every dataset has a story waiting to be told. Let’s unlock it together!**
-
----
 
 ### 🤝 Let’s Connect & Collaborate
 
-If you’re passionate about data, AI, or just want to say hello, let’s connect!  
-**Open to collaborations, mentorship, and new opportunities.**
+> **I believe every dataset has a story waiting to be told. Let’s unlock it together!**
+*If you’re passionate about data, AI, or just want to say hello, let’s connect!*
