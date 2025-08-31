@@ -1,72 +1,99 @@
-# 👋 Hey Everyone, I'm Farhana!
+<div align="center">
+
+# 👋 Hello Techies, I'm Farhana Faiz!  
+
+<p>
+  <marquee width="500" behavior="alternate" style="font-size:20px;">
+    Data Science | AI & ML Enthusiast 
+  </marquee>
+</p>
+
+</div>
+
 
 > **Turning curiosity into code and data into discovery.**
 
 ---
 
-## 💡 About Me
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farhanafaiz03&theme=darkhub&no-frame=true&no-bg=false&margin-w=15" alt="GitHub Trophies"/>
+</p>
 
-🌱 I’m not just seeking a role—I’m on a mission to shape the future with machine learning and data science.  
-I love diving deep into data puzzles, building intelligent solutions, and collaborating with passionate minds.  
-My journey began with a single line of Python, and every dataset since has been an adventure!
+
 
 ---
 
-## 🚀 Currently Exploring
+## 🛸 Currently Exploring
 
 ![Currently Learning](https://img.shields.io/badge/Data%20Science%20-Artificial%20Intelligence-00b894?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
 
-## 🛠️ **Tools & Technologies**
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+## 🌐 **Let's Link Up**
 
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL/PostgreSQL" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-
-  <!-- Data Science/ML Tools -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <!-- Seaborn doesn't have an official icon, so using an SVG Python logo with seaborn color -->
-  <img src="https://img.shields.io/badge/Seaborn-2F8ACB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn (Python icon)" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-
-  <!-- IDEs & Platforms -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-
-  <!-- Other Tools -->
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-</div>
-
----
-
-## 🌐 **Connect With Me**
-
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/farhanafaiz03/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
   &nbsp; &nbsp;
   <a href="https://x.com/farhanafaiz03" target="_blank" title="X (Twitter)">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="30" height="30"/>
   </a>
 </div>
 
 
 ---
 
-### 🖥️ GitHub Activity 🚀
+## ⚙️ **Tools & Technologies**
+
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+
+  <!-- Programming Languages -->
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logosize=25" alt="Python" /></a>
+    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&logosize=25" alt="SQL/PostgreSQL" /></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&logosize=25" alt="C#" /></a>
+  </div>
+
+  <!-- Data Science & Machine Learning -->
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&logosize=25" alt="Jupyter" /></a>
+    <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&logosize=25" alt="Colab" /></a>
+    <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&logosize=25" alt="Kaggle" /></a>
+    <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&logosize=25" alt="scikit-learn" /></a>
+    <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logosize=25" alt="TensorFlow" /></a>
+    <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&logosize=25" alt="Streamlit" /></a>
+    <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&logosize=25" alt="Matplotlib" /></a>
+    <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logosize=25" alt="Pandas" /></a>
+    <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-2F8ACB?style=for-the-badge&logo=python&logoColor=white&logosize=25" alt="Seaborn" /></a>
+    <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logosize=25" alt="NumPy" /></a>
+  </div>
+
+  <!-- IDEs & Platforms -->
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logosize=25" alt="VS Code" /></a>
+    <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&logosize=25" alt="Visual Studio" /></a>
+    <a href="https://www.cursor.sh/"><img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white&logosize=25" alt="Cursor AI" /></a>
+  </div>
+
+  <!-- DevOps & Tools -->
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&logosize=25" alt=".NET" /></a>
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logosize=25" alt="Git" /></a>
+    <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logosize=25" alt="Postman" /></a>
+    <a href="https://www.pgadmin.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&logosize=25" alt="PostgreSQL" /></a>
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logosize=25" alt="Docker" /></a>
+  </div>
+</div>
+
+
+
+
+---
+
+
+### 🐙 Octo Stats
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
@@ -86,7 +113,5 @@ My journey began with a single line of Python, and every dataset since has been 
 ---
 
 
-### 🤝 Let’s Connect & Collaborate
+###  Let’s Connect & Collaborate!
 
-> **I believe every dataset has a story waiting to be told. Let’s unlock it together!**
-*If you’re passionate about data, AI, or just want to say hello, let’s connect!*
