@@ -20,27 +20,11 @@
 </p>
 
 
-
 ---
 
 ## 🛸 Currently Exploring
 
 ![Currently Learning](https://img.shields.io/badge/Data%20Science%20-Artificial%20Intelligence-00b894?style=flat-square&logo=googlecolab&logoColor=white)
-
----
-
-
-## 🌐 **Let's Link Up**
-
-<div>
-  <a href="https://www.linkedin.com/in/farhanafaiz03/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://x.com/farhanafaiz03" target="_blank" title="X (Twitter)">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="30" height="30"/>
-  </a>
-</div>
 
 
 ---
