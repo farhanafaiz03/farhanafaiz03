@@ -11,7 +11,7 @@
 </div>
 
 
-> **Turning curiosity into code and data into discovery.**
+> **Turning data into discovery.**
 
 ---
 
