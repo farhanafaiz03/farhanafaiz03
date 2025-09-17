@@ -90,7 +90,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanafaiz03&layout=compact&hide_border=true&theme=react" alt="Languages Used" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanafaiz03&theme=react-dark" alt="GitHub Activity Graph" />
-  
 </div>
 
 
