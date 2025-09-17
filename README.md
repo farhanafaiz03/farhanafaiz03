@@ -93,10 +93,12 @@
 
 ---
 
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/farhanafaiz03/farhanafaiz03/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/farhanafaiz03/farhanafaiz03/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
