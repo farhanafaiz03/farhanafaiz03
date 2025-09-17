@@ -71,9 +71,6 @@
   </div>
 </div>
 
-
-
-
 ---
 
 
@@ -92,9 +89,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanafaiz03&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
 
+---
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/farhanafaiz03/farhanafaiz03/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
 
 ###  Let’s Connect & Collaborate!
 
