@@ -2,12 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
+    # Runs once a day at midnight (UTC)
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Allows you to run the workflow manually
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -19,12 +21,12 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./github-contribution-grid-snake.svg
-            ./github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push snake to output branch
+      - name: Push Snake SVG to output branch
         uses: EndBug/add-and-commit@v9
         with:
           new_branch: output
-          message: 'Generate contribution snake'
-          add: 'github-contribution-grid-snake*'
+          message: '🐍 Generate contribution snake'
+          add: 'dist/*'
