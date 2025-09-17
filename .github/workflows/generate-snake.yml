@@ -2,14 +2,13 @@ name: Generate Snake
 
 on:
   schedule:
-    # Runs once a day at midnight (UTC)
+    # Runs once a day at midnight UTC
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows you to run the workflow manually
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -25,8 +24,10 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake SVG to output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          new_branch: output
-          message: '🐍 Generate contribution snake'
-          add: 'dist/*'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B output
+          git add dist/*
+          git commit -m "🐍 Generate contribution snake" || echo "No changes to commit"
+          git push origin output --force
