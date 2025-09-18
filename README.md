@@ -91,11 +91,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanafaiz03&show_icons=true&theme=react&cache_seconds=10800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanafaiz03&show_icons=true&theme=algolia" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanafaiz03&layout=compact&hide_border=true&theme=react" alt="Languages Used" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanafaiz03&layout=compact&hide_border=true&theme=algolia" alt="Top Languages" />
+  <br> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanafaiz03&theme=react-dark" alt="GitHub Activity Graph" />
+
 </div>
 
 ---
