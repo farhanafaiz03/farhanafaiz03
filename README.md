@@ -2,11 +2,8 @@
 
 # 🤖 Hello Techies, I'm Farhana Faiz!  
 
-<p>
-  <marquee width="500" behavior="alternate" style="font-size:20px;">
-    Data Science | AI & ML Enthusiast 
-  </marquee>
-</p>
+<p align="center"><i><b>Data Science | AI & ML Enthusiast</b></i></p>
+
 
 </div>
 
@@ -16,9 +13,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhanafaiz03&theme=darkhub&no-frame=true&no-bg=false&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=farhanafaiz03&theme=algolia&no-frame=true&no-bg=false&margin-w=15" alt="GitHub Trophies"/>
 </p>
-
 
 ---
 
@@ -81,7 +77,8 @@
     <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
     <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></a>
     <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /></a>
-    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-181717?style=for-the-badge&logo=huggingface&logoColor=yellow" alt="Hugging Face" /></a>
+
   </div>
 
 ---
