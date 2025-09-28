@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Hello Techies, I'm Farhana Faiz!  
+# I'm Farhana Faiz!  
 
 <p align="center"><i><b>Data Science | AI & ML Enthusiast</b></i></p>
 
@@ -18,30 +18,6 @@
 
 ---
 
-## 🛸 Currently Exploring
-
-![Currently Learning](https://img.shields.io/badge/Data%20Science%20-Artificial%20Intelligence-00b894?style=flat-square&logo=googlecolab&logoColor=white)
-
-
----
-
-## ⚙️ **Tools & Technologies**
-
-<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
-
-  <!-- Programming Languages -->
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/SQL">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  </a>
 </div>
   <!-- Data Science & Machine Learning -->
   <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -55,30 +31,6 @@
     <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
     <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-2F8ACB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" /></a>
     <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
-  </div>
-
-  <!-- IDEs & Platforms -->
-  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
-    <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" /></a>
-    <a href="https://www.cursor.sh/"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" /></a>
-  </div>
-
-  <!-- DevOps & Tools -->
-  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /></a>
-    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-    <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
-    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PgAdmin-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  </div>
-
-  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
-    <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></a>
-    <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /></a>
-    <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-181717?style=for-the-badge&logo=huggingface&logoColor=yellow" alt="Hugging Face" /></a>
-
   </div>
 
 ---
@@ -99,7 +51,4 @@
 
 </div>
 
----
-
-###  Let’s Connect & Collaborate!
 
