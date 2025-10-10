@@ -2,7 +2,7 @@
 
 # I'm Farhana Faiz!  
 
-<p align="center"><i><b>Data Science | AI & ML Enthusiast</b></i></p>
+<p align="center"><i><b>Software Engineer | AI & ML Enthusiast</b></i></p>
 
 
 </div>
