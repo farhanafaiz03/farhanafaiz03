@@ -4,16 +4,14 @@
 
 <p align="center"><i><b>Software Engineer | AI & ML Enthusiast</b></i></p>
 
-
 </div>
-
 
 > **Turning data into discovery.**
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhanafaiz03&theme=algolia&no-frame=true&no-bg=false&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://trophy.ryglcloud.net/?username=farhanafaiz03&theme=algolia&no-frame=true&no-bg=false&margin-w=15&v=2" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -26,12 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanafaiz03&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=farhanafaiz03&show_icons=true&theme=algolia&v=2" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanafaiz03&layout=compact&hide_border=true&theme=algolia" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farhanafaiz03&layout=compact&hide_border=true&theme=algolia&v=2" alt="Top Languages" />
   <br> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanafaiz03&theme=react-dark" alt="GitHub Activity Graph" />
 
 </div>
-
-
