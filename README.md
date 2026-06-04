@@ -1,8 +1,3 @@
-<div align="center">
-
-# I'm Farhana Faiz!  
-
-</div>
 
 > **Turning data into discovery.**
 
