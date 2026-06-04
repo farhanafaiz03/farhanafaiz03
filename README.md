@@ -2,8 +2,6 @@
 
 # I'm Farhana Faiz!  
 
-<p align="center"><i><b>Software Engineer | AI & ML Enthusiast</b></i></p>
-
 </div>
 
 > **Turning data into discovery.**
