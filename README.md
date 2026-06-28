@@ -1,13 +1,6 @@
 
 > **Turning data into discovery.**
 
----
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=farhanafaiz03&theme=algolia&no-frame=true&no-bg=false&margin-w=15&v=2" alt="GitHub Trophies"/>
-</p>
-
----
 
 ### 🐙 Octo Stats
 
