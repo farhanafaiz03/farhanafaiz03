@@ -1,0 +1,36 @@
+name: Update Contribution Chart
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-chart:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution charts
+        uses: dturovskiy/deus-commit-chart@v1
+        with:
+          username: farhanafaiz03
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ranges: 30d,90d,365d
+          output-dir: activity-assets
+          default-days: 365
+          theme: light
+          layout: wide
+
+      - name: Commit generated charts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity-assets
+          git diff --cached --quiet || git commit -m "Update contribution charts"
+          git push
