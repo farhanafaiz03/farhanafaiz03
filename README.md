@@ -27,8 +27,8 @@
 
   <a href="https://github.com/farhanafaiz03">
     <img
-      src="https://raw.githubusercontent.com/farhanafaiz03/farhanafaiz03/activity-assets/activity-365d.svg"
-      alt="GitHub contribution activity for the last 365 days"
+      src="https://raw.githubusercontent.com/farhanafaiz03/farhanafaiz03/activity-assets/activity-line.svg"
+      alt="GitHub contribution line chart for the last 365 days"
       width="100%"
     />
   </a>
