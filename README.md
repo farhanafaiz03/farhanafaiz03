@@ -24,17 +24,3 @@
   </a>
 
   <br><br>
-
-  <a href="https://github.com/farhanafaiz03">
-    <img
-      src="https://raw.githubusercontent.com/farhanafaiz03/farhanafaiz03/activity-assets/activity-line.svg"
-      alt="GitHub contribution line chart for the last 365 days"
-      width="100%"
-    />
-  </a>
-
-  <br>
-
-  <sub>Click the graph to view my GitHub profile and full contribution activity.</sub>
-
-</div>
