@@ -22,12 +22,6 @@
     height="190"
   />
 
-  <!-- Contribution Streak -->
-  <img
-    src="https://streak-stats.demolab.com/?user=farhanafaiz03&background=0d1117&border=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=f0f6fc&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e"
-    alt="GitHub contribution streak"
-    height="190"
-  />
 
   <!-- Contribution Activity -->
   <img
